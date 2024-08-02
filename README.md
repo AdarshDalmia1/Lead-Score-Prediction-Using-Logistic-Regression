@@ -20,25 +20,32 @@ Police involvement: Whether police were involved, coded as 0 (No) or 1 (Yes)
 # Project Workflow
 **1. Data Understanding and Collection**
 Initial overview of the dataset and its features.
+
 **2. Data Cleaning**
 Handling missing values.
 Converting categorical variables to numerical using dummy encoding.
+
 **3. Exploratory Data Analysis (EDA)**
 Univariate Analysis: Examining individual variables' distribution.
 Bivariate Analysis: Exploring relationships between pairs of variables using correlation and scatter plots.
 Multivariate Analysis: Analyzing interactions between multiple variables using pair plots, heatmaps, and PCA.
+
 **4. Feature Engineering**
 Scaling features using StandardScaler.
 Feature selection using Recursive Feature Elimination (RFE).
+
 **5. Model Building**
 Building a logistic regression model to predict lead scores.
 Training the model on the training set.
+
 **6. Model Evaluation**
 Evaluating the model using accuracy, precision, recall, F1-score, ROC AUC, and confusion matrix.
 Plotting ROC and Precision-Recall curves.
 Residual analysis to check model fit.
+
 **7. Hypothesis Testing**
 Performing hypothesis testing to validate the significance of features.
+
 
 # Code
 The repository includes Jupyter notebooks with step-by-step code for each stage of the analysis and model building process.
