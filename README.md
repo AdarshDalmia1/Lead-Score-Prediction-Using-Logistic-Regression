@@ -54,12 +54,12 @@ The repository includes Jupyter notebooks with step-by-step code for each stage 
 The final model provides a lead score that helps in identifying potential leads with a higher likelihood of conversion. The model evaluation metrics indicate that the model is reliable and performs well on the test data.
 
 # Repository Structure
--  data/: Contains the dataset.
--  notebooks/: Jupyter notebooks with detailed analysis and model building steps.
--  data_dictionary/: Detailed description of the dataset's features.
--  models/: Serialized model files.
--  reports/: Generated reports and visualizations.
--  summary/: Summary of the project findings.
--  presentation/: Presentation slides detailing the project.
--  subjective_questions/: Answers to subjective questions related to the project.
--  README.md: Project overview and description.
+-  **data/:** Contains the dataset.
+-  **notebooks/:** Jupyter notebooks with detailed analysis and model building steps.
+-  **data_dictionary/:** Detailed description of the dataset's features.
+-  **models/:** Serialized model files.
+-  **reports/:** Generated reports and visualizations.
+-  **summary/:** Summary of the project findings.
+-  **presentation/:** Presentation slides detailing the project.
+-  **subjective_questions/:** Answers to subjective questions related to the project.
+-  **README.md:** Project overview and description.
